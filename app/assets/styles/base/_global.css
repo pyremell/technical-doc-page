@@ -1,0 +1,6 @@
+/* Place all global styles into this file, i.e. styles that apply across the entire project. Example: font-styles. */
+
+* {
+  box-sizing: border-box;
+  font-family: 'Verdana', sans-serif;
+}
