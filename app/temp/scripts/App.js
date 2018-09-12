@@ -70,13 +70,5 @@
 "use strict";
 
 
-var _MobileMenu = __webpack_require__(!(function webpackMissingModule() { var e = new Error("Cannot find module \"./modules/MobileMenu\""); e.code = 'MODULE_NOT_FOUND'; throw e; }()));
-
-var _MobileMenu2 = _interopRequireDefault(_MobileMenu);
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-var mobileMenu = new _MobileMenu2.default();
-
 /***/ })
 /******/ ]);

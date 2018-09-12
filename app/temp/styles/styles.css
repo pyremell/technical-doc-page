@@ -445,4 +445,22 @@ $mainBlue: blue; */
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+  margin: 80px 20%;
 }
+.main-section {
+  text-align: justify;
+}
+.main-section__section-header {
+    text-align: center;
+    font-size: 1.5em;
+  }
+.main-section--margin-top {
+    margin-top: 40px;
+  }
+.main-section li {
+    margin-top: 20px;
+    list-style-type: none;
+  }
+.main-section code {
+    color: blue;
+  }
